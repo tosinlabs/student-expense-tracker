@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code / temporary files
+tempCodeRunnerFile.py
+
+# Local application data
+data.json
+student_expense_tracker_data.json
+student_expense_tracker_feedback.json
+
+# Test files
+testEmail.py
+
+# Vercel / sensitive files
+*recovery-codes*
+.env
+.env.*
+!.env.example
