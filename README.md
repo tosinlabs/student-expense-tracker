@@ -16,7 +16,7 @@ Student Expense Tracker helps students record their expenses, manage budgets, mo
 
 *The Student Expense Tracker desktop dashboard.*
 
-## ✨ Features
+## Features
 
 * **Spending Dashboard** — View spending summaries across different time periods.
 * **Expense Management** — Record and organize expenses by category.
