@@ -27,7 +27,7 @@ Student Expense Tracker helps students record their expenses, manage budgets, mo
 * **Custom Desktop Interface** — A modern interface built with CustomTkinter.
 * **Windows Executable** — Launch the packaged desktop application without manually running the Python script.
 
-## 🛠️ Built With
+## Built With
 
 | Technology     | Purpose                             |
 | -------------- | ----------------------------------- |
@@ -51,7 +51,7 @@ The easiest way to get started is to download the latest Windows release.
 
 Keep the extracted application files together. Do not move the executable out of its folder.
 
-## 💻 Run From Source
+## Run From Source
 
 Want to explore the code or contribute to development?
 
