@@ -9,6 +9,8 @@ tempCodeRunnerFile.py
 data.json
 student_expense_tracker_data.json
 student_expense_tracker_feedback.json
+budget.json
+expenses.json
 
 # Test files
 testEmail.py
@@ -18,3 +20,12 @@ testEmail.py
 .env
 .env.*
 !.env.example
+
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller build output
+build/
+dist/
